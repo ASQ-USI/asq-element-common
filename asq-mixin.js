@@ -1,3 +1,6 @@
+// From Polymer/core-focusable
+// @see https://github.com/Polymer/core-focusable.git
+
 ASQ.mixin2 = function(prototype, mixin) {
 
   // adds a single mixin to prototype
