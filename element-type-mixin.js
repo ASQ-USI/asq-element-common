@@ -1,4 +1,4 @@
-ASQ = {}
+var ASQ = window.ASQ = {};
 
 ASQ.ElementTypeMixin = {
   
